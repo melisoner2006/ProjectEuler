@@ -4,8 +4,8 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		EvenFibonacciNumbers.result();
-
+		//EvenFibonacciNumbers.result();
+		LargestPrimeFactor.result();
 	}
 
 }
