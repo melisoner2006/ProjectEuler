@@ -6,8 +6,8 @@ import java.util.List;
 public class EvenFibonacciNumbers {
 
 	/**
-	 * @param args
-	 */
+	 * Question 2
+	 **/
 	static private int DEFAULT_LIMIT = 4000000;
 	static private List<Integer> fibNums = new ArrayList<Integer>();
 	static private int j = 2, limit = 0, sum = 0;
